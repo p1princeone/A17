@@ -757,7 +757,7 @@ Typed *surrender* to surrender and admited defeat`
 
 
 
-      case 'qt': {
+/*      case 'qt': {
         if (!args[0] && !m.quoted) {
           return m.reply(`Please provide a text (Type or mention a message) !`);
         }
@@ -812,7 +812,7 @@ Typed *surrender* to surrender and admited defeat`
         }
         break;
       }
-
+*/
 
 
       case 'support': case 'supportgc': {
